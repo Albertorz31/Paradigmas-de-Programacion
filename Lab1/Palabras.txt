@@ -1,0 +1,37 @@
+En este bloc quedara indicado que palabras funcionan para que el chatbot pueda entender el mensaje
+Esta palabras debe estar contenidas en algun mensaje para que el chatbot devuelva una determinadada respues
+
+Responder con una palabra la pregunta del chatbot:
+- si, ya bueno, ok
+-no, nada, nop, negativo
+
+Responder con dos palabras la pregunta del chatbot:
+la frase debe contener necesaria mente la primera palabra y cualquiera de las otras
+-si, claro, estimado, gracias
+-no, gracias, quiero, nada
+
+Responder con este orden la pregunta del chatbot
+puedes responder cualquier frase pero mientras en esa frase se incluyan
+estas palabras, el chatbot devolvera un valor
+
+-no, nada, mas
+-cual,tu,nombre
+-como,te,llamas
+-como,te,sientes
+-que,hamburguesas,tiene
+-me,gustaria,hamburguesa
+-quiero,hamburguesa,clasica
+-quiero,hamburguesa,vegetariana
+-quiero,hamburguesa,gigante
+-me,gustaria,papas
+-quiero,papas,chicas
+-quiero,papas,medianas
+-quiero,papas,grandes
+-que,bebidas,tiene
+-me,gustaria,bebida
+-quiero,bebida,pepsi
+-quiero,bebida,fanta
+-tiene,alguna,comida
+-que,le,dijieron
+
+
